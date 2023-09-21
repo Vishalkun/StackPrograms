@@ -14,6 +14,8 @@
             Console.WriteLine("-------------------");
 
             stackobj.Peek();
+            Console.WriteLine("-------------------");
+            stackobj.pop();
 
 
         }
