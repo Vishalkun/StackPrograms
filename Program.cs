@@ -8,8 +8,12 @@
             stackobj.pushData(56);
             stackobj.pushData(30);
             stackobj.pushData(70);
+            Console.WriteLine("---------------------");
 
             stackobj.DisplayData();
+            Console.WriteLine("-------------------");
+
+            stackobj.Peek();
 
 
         }
